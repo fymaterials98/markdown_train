@@ -45,9 +45,26 @@ def foo():
 
 ## Rule #1
 ___
-   
+  
+#### python code
 Block code that is **python**-specific:  
 ```python
 print "hello world!"
 print "hello moon"
+```
+
+#### bash or console
+
+Block code that is non-specific:  
+```
+$ git status
+$ git remote -v
+```
+
+Block code that is **bash**-specific:  
+```console
+$ git status
+$ git remote -v
+
+$ ps awx | grep mongo
 ```
