@@ -46,3 +46,8 @@ def foo():
 ## Rule #1
 ___
    
+Block code that is **python**-specific:  
+```python
+print "hello world!"
+print "hello moon"
+```
