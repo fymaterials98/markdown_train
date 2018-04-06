@@ -33,10 +33,11 @@ Here’s an example of Python code without syntax highlighting:
 def foo()  
     if not bar:  
         return True  
-'''pythonscript
-def foo():
-    if not bar:
-        return True
+'''
+pythonscript
+def foo():  
+    if not bar:  
+        return True  
 '''  
 
 
