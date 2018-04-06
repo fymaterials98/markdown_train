@@ -28,7 +28,7 @@ also italic _italic_
 > The present is our past  
 # Inline code  
 I think you should use  
-`<addr>` element here instead  
+`<address>` element here instead  
 
 
    
