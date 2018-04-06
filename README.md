@@ -29,6 +29,11 @@ also italic _italic_
 # Inline code  
 I think you should use  
 `<address>` element here instead  
+Here’s an example of Python code without syntax highlighting:  
+def foo()  
+    if not bar:  
+        return True  
+
 
 
    
