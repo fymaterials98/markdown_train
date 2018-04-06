@@ -26,5 +26,9 @@ also italic _italic_
 # Block quote  
 > We are living the future so  
 > The present is our past  
+# Inline code  
+I think you should use  
+`<addr>` element here instead  
+
 
    
