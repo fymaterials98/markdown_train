@@ -6,4 +6,7 @@ This is header file of different size
 ## This is h2 tag  
 ### This is h3 tag  
 #### This is h4 tag  
-no tag in this line
+no tag in this line  
+bold **bold**  
+italic *italic*  
+also italic _italib_  
